@@ -1,6 +1,6 @@
 <h1 >Hey, I’m Vishwajit Patil 👋</h1>
 
-### Backend Engineer · Game Developer · AI
+### Backend Engineer · Systems Thinker · Game Dev Enthusiast
 
 <p>
 I enjoy building backend systems that actually hold up under real-world use.<br>
@@ -22,7 +22,7 @@ Most of my work revolves around correctness, scalability, and understanding why 
 I’m a backend-focused developer who likes working close to the **core logic of systems** —  
 databases, APIs, authentication, concurrency, and performance bottlenecks.
 
-I don’t chase buzzwords.  
+I don’t chase buzzwords — I care about trade-offs.
 I prefer understanding *why* something works before adding complexity.
 
 Outside backend work, I explore **game development** as a creative space to think about:
@@ -38,11 +38,11 @@ It keeps my engineering instincts sharp.
 
 <div align="center">
 
-### Core Stack
+### Primary
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Backend & Databases
 
@@ -55,7 +55,6 @@ It keeps my engineering instincts sharp.
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -77,7 +76,7 @@ It keeps my engineering instincts sharp.
 - Better Spring Boot patterns (transactions, events, failure handling)
 - Database performance (indexes, query plans, schema trade-offs)
 - System design beyond toy examples
-- Practical GenAI (local models, RAG, trade-offs)
+- Practical GenAI (local models, RAG, system-level trade-offs)
 
 ---
 
