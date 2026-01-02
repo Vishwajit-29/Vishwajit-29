@@ -81,5 +81,3 @@ It keeps my engineering instincts sharp.
 ---
 
 
-If something here looks interesting, feel free to reach out.
-I’m always open to good technical conversations.
